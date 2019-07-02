@@ -43,7 +43,6 @@ namespace Decorator
 
             Console.WriteLine("Sơn lớp sơn xanh");
         }
-
     }
     
 
@@ -60,5 +59,5 @@ namespace Decorator
 
             Console.WriteLine("Trét lớp bả matit làm mịn bề mặt");
         }
-    }        
+    }
 }

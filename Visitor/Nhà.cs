@@ -2,7 +2,7 @@
 
 namespace Visitor
 {
-    public class Nhà : IPhòng
+    public class Nhà : IKhông_Gian
     {
         public Phòng_Khách Phòng_Khách { get; set; } = new Phòng_Khách();
         public Phòng_Ngủ Phòng_Ngủ { get; set; } = new Phòng_Ngủ();

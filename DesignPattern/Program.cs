@@ -12,8 +12,8 @@ namespace DesignPattern
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Demo_Decorator();
-            Demo_Strategy();
-            Demo_Visitor();
+            //Demo_Strategy();
+            //Demo_Visitor();
 
             Console.ReadLine();
         }

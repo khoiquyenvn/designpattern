@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Visitor
 {
-    public class Bếp : IPhòng
+    public class Bếp : IKhông_Gian
     {
         public void Accept(IKhách khách)
         {
